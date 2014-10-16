@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[apr:home|Door43 (apr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-apr|d43-apr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-apr/archive/master.zip|d43-apr.zip]]
+
+**Recent Changes**
+{{changes>ns = apr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/apr|Ethnologue data]]
+
